@@ -16,7 +16,7 @@
     "@actions/core": "3.0.1",
     "@actions/exec": "3.0.0",
     "@actions/glob": "0.7.0",
-    "adm-zip": "0.5.17",
+    "adm-zip": "0.5.18",
     "fast-xml-parser": "^5.3.2"
   },
   "devDependencies": {
